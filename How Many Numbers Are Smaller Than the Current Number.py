@@ -11,4 +11,4 @@ class Solution(object):
                     result[i] += 1
                 elif nums[j]>nums[i]:
                     result[j] += 1
-        return result
+        return result 
