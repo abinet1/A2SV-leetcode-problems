@@ -26,5 +26,5 @@ class Solution(object):
                 total = total - nums[left_pointer]
                 win_len -= 1 
                 left_pointer =left_pointer+ 1
-        return max_len;
+        return max_len
 
