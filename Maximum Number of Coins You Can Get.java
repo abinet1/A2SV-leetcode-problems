@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int maxCoins(int[] piles) {
         Arrays.sort(piles);
